@@ -1,0 +1,41 @@
+
+@import url("https://fonts.googleapis.com/css?family=Courgette|Libre+Baskerville|Noto+Sans&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: Libre Baskerville, serif;
+	font-size: 20px;
+	padding: 50px;
+	text-align: center;
+	margin: 0px;
+
+}
+
+
+h2, h3 {
+
+	font-family: Noto Sans, serif;
+	font-weight: bold;
+}
+
+h1, h4 {
+	font-family: courgette;
+	font-size: 35px;
+}
+
+h5 {
+	font-size: 10px;
+}
+a {
+	text-decoration: none;
+}
+.little-text {
+	font-size: 13px;
+
+}
+
